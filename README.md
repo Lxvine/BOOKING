@@ -25,5 +25,11 @@
 <p align="center">4) LOGIN SCREEN: </p>
 
 <p align="center">
-  <img src="https://github.com/Lxvine/BOOKING/blob/master/Screenshots/booking4.png" style=" width:700px">
+  <img src="https://github.com/Lxvine/BOOKING/blob/master/Screenshots/booking4.png" style=" width:450px">
+</p>
+
+<p align="center">5) LOGIN SCREEN: </p>
+
+<p align="center">
+  <img src="https://github.com/Lxvine/BOOKING/blob/master/Screenshots/booking5.png" style=" width:450px">
 </p>
