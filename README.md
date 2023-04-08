@@ -7,5 +7,5 @@
 <p align="center">1) LOGIN SCREEN: </p>
 
 <p align="center">
-  <img src="https://github.com/Lxvine/BOOKING/blob/master/Screenshots/booking1.png" style=" width:300px">
+  <img src="https://github.com/Lxvine/BOOKING/blob/master/Screenshots/booking1.png" style=" width:800px">
 </p>
