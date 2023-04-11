@@ -1,6 +1,6 @@
 <h2 align="center">BOOKING DESKTOP PROJECT</h2>
 
-<p align="center">This project simulates a booking application: </p>
+<p align="center">This project simulates a booking desktop application: </p>
 
 ---
 
